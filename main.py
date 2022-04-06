@@ -4,9 +4,9 @@ from telethon.tl.functions.channels import JoinChannelRequest
 from telethon. tl. functions.messages import ImportChatInviteRequest
     
 
-api_id = 2724713
-api_hash = "fbcd36359ec632d453539eea3934c718"
-bot_token = '5238758699:AAEWBOKS4dXk0A2fjWQKt4LjZ4Q8g0ctC64'
+api_id = here
+api_hash = "here"
+bot_token = 'here'
 
 client = TelegramClient('bot', api_id, api_hash).start(bot_token=bot_token)
 
